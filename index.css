@@ -1,3 +1,7 @@
+#speakers{
+    background-image: url(/img/1511.jpg)
+}
+
 .text-platzi{
     color: green !important;
 }
@@ -42,12 +46,21 @@ header img{
 
 }
 
+
+figure{
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+figure img{
+    height: 80px;
+}
+
 #place-time{
     background-color: #343434;
 }
-#place-time img{
-    max-width: 100%;
-}
+
 
 
 
@@ -55,4 +68,3 @@ header img{
 #footer{
     background-color: #e3f2fd;
 }
-

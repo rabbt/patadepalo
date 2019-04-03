@@ -6,7 +6,7 @@ maps
 
 
 form-group declara como formulario los cmapos y se separan
- 
+
 
 offset-md- 2 , clase para mover la columna hacia la derecha. Esta clases aumentan el margen izquierdo de una columna por * columnas.
 
