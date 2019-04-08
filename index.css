@@ -1,3 +1,7 @@
+#header{
+    background-color: #00adb5 !important;
+}
+
 #speakers{
     background-image: url(/img/1511.jpg)
 }
@@ -57,10 +61,23 @@ figure img{
     height: 80px;
 }
 
-#place-time{
-    background-color: #343434;
+.card img{
+    height: 15rem;
 }
 
+#mision{
+    background-color: #343434;
+    color: white;
+    display: flex;
+    padding: 20px;
+
+}
+
+#imgMision img{
+    width: 15rem;
+ 
+  
+}
 
 
 

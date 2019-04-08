@@ -1,0 +1,9 @@
+#header{
+    background-color: #00adb5 !important;
+}
+
+
+/*tamaño de imagens en catalogo*/
+#producto img{
+   height: 15rem;
+}
